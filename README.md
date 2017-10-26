@@ -1,5 +1,9 @@
 # LearnHero
 
+දසමහා යෝදයෝ!
+===================
+:D to learn basic angular and play with advanced features i manage this repository. if anyone else is interest in learn angular feel free to fork this repo.  
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
 
 ## Development server
